@@ -1,0 +1,62 @@
+// Lucas Agustin Gaitan
+// Legajo:91347/8
+void settings()  {
+     size(400,400);
+}
+void draw()   {
+  background(81,209,246);
+  noStroke();
+  fill(255,255,0);
+  ellipse(350,30,70,70);
+  fill(255);
+  rect(6,7,60,32,90,54,30,75);
+  fill(255);
+  rect(80,15,60,39,90,54,30,75);
+  fill(255);
+  rect(160,10,60,40,90,54,30,75);
+  fill(0,255,0);
+  rect(0,300,400,400);
+  stroke(1);
+  strokeWeight(1);
+  fill(195,155,97);
+  rect(100,100,200,200,75,75,250,250);
+  fill(0,0,255);
+  fill(0);
+  textSize(50);
+  text("Lucas",140,350);
+  fill(0);
+  rect(180,250,40,2);
+  fill(0);
+  rect(190,230,20,4);
+  fill(255);
+  ellipse(150,170,50,50);
+  fill(108,59,42);
+  ellipse(150,170,25,25);
+  fill(0);
+  ellipse(150,170,15,15);
+  fill(255);
+  ellipse(155,165,5,5);
+  fill(255);
+  ellipse(250,170,50,50);
+  fill(108,59,42);
+  ellipse(250,170,25,25);
+  fill(0);
+  ellipse(250,170,15,15);
+  fill(255);
+  ellipse(255,165,5,5);
+  fill(0);
+  rect(130,140,45,3);
+  fill(0);
+  rect(230,140,45,3);
+  strokeWeight(4);
+  line(190,230,200,190);
+  strokeWeight(20);
+  line(200,100,100,120);
+  line(100,200,100,120);
+  line(200,100,300,120);
+  line(300,200,300,120);
+  line(110,150,200,100);
+  line(85,150,200,100);
+  line(200,100,300,140);
+  line(200,100,320,160);
+} 
