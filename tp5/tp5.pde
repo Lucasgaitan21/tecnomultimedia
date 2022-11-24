@@ -1,7 +1,7 @@
 
 /*       TP#5: "El juego"
  Okreniec, Ivan - Legajo:91341/0
- Gaitan, Agustin Lucas - Legajo 91347/8
+ Gaitan, Agustin Lucas - Legajo 91347/8 linK: https://youtu.be/asbI1euEVdU
  Merchena, Nicolás - Legajo:91568/0
  Giovanni, Nieva - legajo:91312/5
  */
